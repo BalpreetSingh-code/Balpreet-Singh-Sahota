@@ -31,11 +31,6 @@ Welcome to my GitHub profile! I am a passionate and results-driven software deve
 
 ---
 
-## 📊 GitHub Stats
-
-![Balpreet Singh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BalpreetSingh-code&show_icons=true&theme=radical)
-
----
 
 ## 🤝 Connect with Me
 
