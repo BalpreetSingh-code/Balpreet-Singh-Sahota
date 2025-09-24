@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Balpreet Singh
+#  Hello, I'm Balpreet Singh 👋
 
 Welcome to my GitHub profile! I am a passionate and results-driven software developer with a focus on modern technologies, DevOps practices, and creative problem solving. My repositories showcase hands-on experience in software engineering, automation, and game development.
 
